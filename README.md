@@ -40,14 +40,14 @@ Watch the complete Dashboard video [Link](https://youtu.be/IiSwuvOhPi0)
 
 [High Level Document](https://github.com/manjunath3779/SwiggyAnalysis/blob/main/HLD%20Document.docx)
 
-[Low Level Document](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/LLD%20Document.pdf)
+[Low Level Document](https://github.com/manjunath3779/SwiggyAnalysis/blob/main/LLD%20Document.docx)
 
-[Architecture](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Architecture.pdf)
+[Architecture](https://github.com/manjunath3779/SwiggyAnalysis/blob/main/Architecture.docx)
 
-[WireFrame](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Wireframe.pdf)
+[WireFrame](https://github.com/manjunath3779/SwiggyAnalysis/blob/main/Wireframe.docx)
 
-[Report](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Amazon%20sales%20report.pptx)
+[Report](https://github.com/manjunath3779/SwiggyAnalysis/blob/main/Detail%20Project%20Review%20report.pptx)
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/ashishraykar/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/manjunath-raikar-066891186/)
