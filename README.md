@@ -38,7 +38,7 @@ Watch the complete Dashboard video [Link](https://youtu.be/IiSwuvOhPi0)
 
 ## 🗂 Documentation
 
-[High Level Document](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/HLD%20Document.pdf)
+[High Level Document](https://github.com/manjunath3779/SwiggyAnalysis/blob/main/HLD%20Document.docx)
 
 [Low Level Document](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/LLD%20Document.pdf)
 
